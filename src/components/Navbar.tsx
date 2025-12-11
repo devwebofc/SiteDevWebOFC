@@ -40,7 +40,7 @@ const Navbar = ({ onNavigate }: Props) => {
         {/* Logo */}
         <button onClick={() => onNavigate('home')} className="flex items-center gap-2 group">
           <img 
-            src="./assets/images/logo_devweb.png" 
+            src="/assets/images/logo_devweb.png" 
             alt="DevWeb Logo" 
             className="w-16 h-16 object-contain transform scale-150 group-hover:scale-175 transition-transform"
           />

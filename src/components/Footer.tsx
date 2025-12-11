@@ -43,7 +43,7 @@ const Footer = ({ onNavigate }: Props) => {
                className="flex items-center mb-6 cursor-pointer"
              >
               <img 
-                src="./assets/images/logo_devweb.png" 
+                src="/assets/images/logo_devweb.png" 
                 alt="DevWeb Logo" 
                 className="w-16 h-16 object-contain transform scale-150"
               />

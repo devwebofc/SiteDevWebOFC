@@ -13,7 +13,7 @@ const Portfolio = ({ onNavigate }: Props) => {
       id: 1,
       title: "Cromática Filmes",
       category: "Site Institucional",
-      image: "./assets/images/Sitecromatica.png",
+      image: "/assets/images/Sitecromatica.png",
       url: "https://cromaticafilmes.com.br",
     },
     {
